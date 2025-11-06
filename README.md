@@ -1,8 +1,9 @@
 ## 🧑‍💻 Thiago
 
-Me chamo Thiago Alexandre Braga de Medeiros, tenho 18 anos e sou natural da Paraíba. Concluí o ensino médio no IFPB, com o curso técnico em Informática. Atualmente, estou cursando Sistemas de Informação na UFRN. Gosto muito de aprender e praticar novas tecnologias.
+Me chamo Thiago Alexandre Braga de Medeiros, tenho 18 anos e sou natural da Paraíba. Concluí o ensino médio no IFPB, com o curso técnico em Informática. Atualmente, curso Sistemas de Informação na UFRN. Gosto muito de aprender e praticar novas tecnologias.
 
----
+Já tive experiência com HTML, CSS, Python, Java (POO), C e programação web, além de trabalhar com banco de dados MySQL. Atualmente, estou aprendendo PHP e Laravel.
+
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -47,7 +48,7 @@ Me chamo Thiago Alexandre Braga de Medeiros, tenho 18 anos e sou natural da Para
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 /> -->
 
-<!-- <img 
+ <img 
     align="left" 
     alt="PHP" 
     title="PHP"
@@ -62,7 +63,7 @@ Me chamo Thiago Alexandre Braga de Medeiros, tenho 18 anos e sou natural da Para
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/> -->
+/> 
 
 <!-- <img 
     align="left" 
@@ -71,7 +72,8 @@ Me chamo Thiago Alexandre Braga de Medeiros, tenho 18 anos e sou natural da Para
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+/> -->
+
 <img 
     align="left" 
     alt="Python" 
@@ -79,7 +81,7 @@ Me chamo Thiago Alexandre Braga de Medeiros, tenho 18 anos e sou natural da Para
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/> -->
+/> 
 
 <br/>
 <br/>
