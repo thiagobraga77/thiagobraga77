@@ -2,7 +2,7 @@
 
 Me chamo Thiago Alexandre Braga de Medeiros, tenho 18 anos e sou natural da Paraíba. Concluí o ensino médio no IFPB, com o curso técnico em Informática. Atualmente, curso Sistemas de Informação na UFRN. Gosto muito de aprender e praticar novas tecnologias.
 
-Já tive experiência com HTML, CSS, Python, Java (POO), C e programação web, além de trabalhar com banco de dados MySQL. Atualmente, estou aprendendo PHP e Laravel.
+Já tive experiência com HTML, CSS, Python, Java (POO), C, programação web, e banco de dados MySQL. Atualmente, estou aprendendo PHP e Laravel.
 
 
 ### 🤖 Linguagens e Tecnologias
